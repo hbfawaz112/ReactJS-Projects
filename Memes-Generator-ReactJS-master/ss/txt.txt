@@ -1,0 +1,12 @@
+# Description 
+This is simple single page then render memes template then the use can skip memes to choose one , then type in the input fields the captions he need, then the server render him the same meme containing his captions.
+
+## Screenshot
+  
+  ### Write Captions (the number of input fields is relating to the current meme :) )
+    
+   ![s1](https://raw.githubusercontent.com/hbfawaz112/Memes-Generator-ReactJS/master/Screenshots/s1.png)
+    
+  ### Result meme: 
+    
+   ![s2](https://raw.githubusercontent.com/hbfawaz112/Memes-Generator-ReactJS/master/Screenshots/s2.png)
